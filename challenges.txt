@@ -1,0 +1,17 @@
+Challanges faced:
+1. no fish
+2. computational time
+3. data set integration
+4. hyperparamter tuning
+5. Overfitting
+6. similar looking species
+
+Challanges we will face:
+1. Source of information.
+2. Source of data and how data integration was done
+3. Data pre-processing
+4. Why transfer learning
+5. How did you test them
+6. Co-ordination
+7. What characterestics
+8. Properly check which species are workinsg

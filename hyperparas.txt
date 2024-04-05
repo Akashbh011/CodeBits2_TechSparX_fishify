@@ -1,0 +1,9 @@
+Variables
+
+min_delta
+patience
+filters
+units in dense layer
+epochs in fitting
+batch size in fitting
+increasing dense layers
